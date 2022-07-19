@@ -13,7 +13,7 @@ My Process to complete the solos project started by doing the visual display of 
 ### How the project works
 
 So, this is basicallly a password generator "app" that will generate a random password with 15 characters length using for loop (including symbols, numbers and letters).
-everytime you click in the "Generate Password" button it will generate two new passwords on each element.
+everytime you click in the "Generate Password" button, it will generate two new passwords on each html element.
 
 ### Built with
 
