@@ -3,7 +3,8 @@
 ### Screenshot
 
 ![](images/Screenshot.jpg)
-[live website](https://izkeer.github.io/PasswordGenerator/)
+
+## [live website](https://izkeer.github.io/PasswordGenerator/)
 ## My process
 
 My Process to complete the solos project started by doing the visual display of the project, then adding two functions into the JS to generate a password and other to display the previous function into the desired buttons..
